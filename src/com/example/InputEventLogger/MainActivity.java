@@ -1,3 +1,8 @@
+// MainActivity.java
+//
+// Project: InputEventLogger
+// Copyright (c) 2014 Sangwhan Moon. Refer to license.txt for full license.
+
 package com.example.InputEventLogger;
 
 import android.app.Activity;
